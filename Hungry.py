@@ -1,5 +1,5 @@
-a=input("Enter food:")
-if a=="Burger":
-    print("Its junk ")
+a=input("Are  you hungry:")
+if a=="YES":
+    print("have food")
 else:
-    print("healthy")
+    print("ok drink water")
